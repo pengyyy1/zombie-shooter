@@ -6,5 +6,5 @@ html, body {
 }
 canvas {
   background: radial-gradient(rgb(150, 200, 150), rgb(50, 100, 50));
+  selector { cursor: none; }
 }
-selector { cursor: none; }
